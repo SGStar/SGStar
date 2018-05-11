@@ -4,34 +4,22 @@
     <h2>Essential Links</h2>
     <ul>
       <li>
-        <a
-          href="https://vuejs.org"
-          target="_blank"
-        >
+        <a href="https://vuejs.org" target="_blank">
           Core Docs
         </a>
       </li>
       <li>
-        <a
-          href="https://forum.vuejs.org"
-          target="_blank"
-        >
+        <a href="https://forum.vuejs.org" target="_blank">
           Forum
         </a>
       </li>
       <li>
-        <a
-          href="https://chat.vuejs.org"
-          target="_blank"
-        >
+        <a href="https://chat.vuejs.org" target="_blank">
           Community Chat
         </a>
       </li>
       <li>
-        <a
-          href="https://twitter.com/vuejs"
-          target="_blank"
-        >
+        <a href="https://twitter.com/vuejs" target="_blank">
           Twitter
         </a>
       </li>
